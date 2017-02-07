@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- prefence keys, no translation needed -->
+    <string name="pref_commands_mode">pref_commands_mode</string>
+    <string name="pref_checksum_mode">pref_checksum_mode</string>
+    <string name="pref_commands_ending">pref_commands_ending</string>
+    <string name="pref_log_timing">pref_log_timing</string>
+    <string name="pref_log_direction">pref_log_direction</string>
+    <string name="pref_need_clean">pref_need_clean</string>
+    <!-- prefence keys, no translation needed -->
+
+    <string name="app_name">姿態版校正軟體</string>
+
+    <string name="msg_not_connected">尚未連線</string>
+    <string name="msg_connecting">連線中…</string>
+    <string name="msg_connected">已連線</string>
+
+    <string name="action_bluetooth">on/off</string>
+    <string name="no_bt_support">您的裝置不支援此藍芽</string>
+    <string name="empty_device_name">&lt;新裝置&gt;</string>
+
+    <string name="menu_send">傳送紀錄…</string>
+    <string name="menu_settings">設定</string>
+    <string name="menu_clear">清除歷史紀錄</string>
+
+    <string name="select_device">選擇裝置</string>
+    <string name="search_message">搜尋裝置中…</string>
+    <string name="title_paired_devices">已配對裝置</string>
+    <string name="title_other_devices">未配對裝置</string>
+    <string name="none_paired">沒有已配對裝置</string>
+    <string name="none_found">未找到</string>
+    <string name="command_hint">在此輸入指令</string>
+    <string name="button_send">傳送</string>
+
+    <!-- Настройки -->
+    <string name="log_settings_category">指令歷史：</string>
+
+    <string name="log_time">時間</string>
+    <string name="log_time_summary">顯示時間</string>
+    <string name="log_direction">方向</string>
+    <string name="log_direction_summary">Show I/O direction in log</string>
+
+    <string name="commands_mode">Input mode:</string>
+    <string name="checksum_mode">Checksum</string>
+    <string name="checksum_mode_summary">Add checksum to command</string>
+    <string name="commands_mode_summary">Select input mode</string>
+    <string name="commands_ending_summary">Select ending</string>
+
+    <string name="need_clean">Clear previous command</string>
+    <string name="need_clean_summary">Cleanup command view after sending</string>
+</resources>
